@@ -28,7 +28,7 @@ What started as a hobby quickly turned into a passion for programming, and event
 |Badge|Description|
 |-|-|
 |![AZ-900](/badges/AZ900.png)|**[AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals) Azure Fundamentals**<br>Validates foundational knowledge of cloud concepts and Microsoft Azure services. Covers cloud models, core Azure services, pricing, and the benefits of cloud solutions.|
-|![AZ-204](/badges/AZ204.png)|**[AZ-204](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/) Azure Developer Associate**<br>Validates skills in developing cloud applications and services on Microsoft Azure. Covers Azure compute services, SDKs, data storage, authentication, and monitoring.|
+|![AZ-204](/badges/AZ204.png)|**[AZ-204](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/) Azure Developer Associate (Retired)**<br>Validates skills in developing cloud applications and services on Microsoft Azure. Covers Azure compute services, SDKs, data storage, authentication, and monitoring.|
 |![AZ-400](/badges/AZ400.png)|**[AZ-400](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/) DevOps Engineer Expert**<br>Validates expertise in designing and implementing DevOps practices including version control, CI/CD, infrastructure as code, configuration management, monitoring, and security.|
 |![SC-900](/badges/SC900.png)|**[SC-900](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals) Security, Compliance, and Identity Fundamentals**<br>Validates foundational knowledge of security, compliance, and identity concepts across Microsoft cloud solutions.|
 
