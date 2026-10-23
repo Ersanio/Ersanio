@@ -33,10 +33,11 @@ What started as a hobby quickly turned into a passion for programming, and event
 |![SC-900](/badges/SC900.png)|**[SC-900](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals) Security, Compliance, and Identity Fundamentals**<br>Validates foundational knowledge of security, compliance, and identity concepts across Microsoft cloud solutions.|
 
 ## 🚀 Featured Projects
-- **[Nine Yin Manual](https://nineyinmanual.com/)**: A fullstack web application for the MMORPG "Age of Wushu". It provides a comprehensive database of in-game items, skills, and other information. Built with Angular and ASP.NET. Source code will be public soon.
+- **[Nine Yin Manual](https://nineyinmanual.com/)**: A fullstack web application for the MMORPG "Age of Wushu". It provides a comprehensive database of in-game items, skills, and other information. Built with Angular and ASP.NET. It will remain closed-source, however.
 - **[Age of Wushu Utilities](https://github.com/Ersanio/wushu-utils)**: A collection of tools and utilities for the MMORPG "Age of Wushu".
 - **[Litra Controller](https://github.com/Ersanio/litra-controller)**: A project for controlling Logitech's Litra Glow through the browser.
 - **[Assembly for the SNES](https://github.com/Ersanio/snes-assembly-book)**: A comprehensive guide to programming for the Super Nintendo Entertainment System (SNES) using assembly language. Highly acclaimed in the SNES modding community.
+- **[Solar Soundtrack](https://github.com/Ersanio/solar-soundtrack)**: A vibe-coded concept of an in-browser music editor, made for "Super Mario World" for the Super Nintendo Entertainment System (SNES).
 
 ## 📫 How to reach me
 
