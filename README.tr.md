@@ -28,7 +28,7 @@ Bir zamanlar bir hobi olarak başlayan şey, kısa sürede programlamaya olan bi
 |Rozet|Açıklama|
 |-|-|
 |![AZ-900](/badges/AZ900.png)|**[AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals) Azure Fundamentals**<br>Bulut kavramları ve Microsoft Azure hizmetleri konusunda temel bilgileri doğrular. Bulut modelleri, temel Azure hizmetleri, fiyatlandırma ve bulut çözümlerinin avantajlarını kapsar.|
-|![AZ-204](/badges/AZ204.png)|**[AZ-204](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/) Azure Developer Associate**<br>Microsoft Azure üzerinde bulut uygulamaları ve hizmetleri geliştirme becerilerini doğrular. Azure compute servisleri, SDK’lar, veri depolama, kimlik doğrulama ve izlemeyi kapsar.|
+|![AZ-204](/badges/AZ204.png)|**[AZ-204](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/) Azure Developer Associate (Retired)**<br>Microsoft Azure üzerinde bulut uygulamaları ve hizmetleri geliştirme becerilerini doğrular. Azure compute servisleri, SDK’lar, veri depolama, kimlik doğrulama ve izlemeyi kapsar.|
 |![AZ-400](/badges/AZ400.png)|**[AZ-400](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/) DevOps Engineer Expert**<br>Versiyon kontrol, CI/CD, infrastructure as code, yapılandırma yönetimi, izleme ve güvenlik dahil olmak üzere DevOps uygulamalarını tasarlama ve uygulama konusundaki uzmanlığı doğrular.|
 |![SC-900](/badges/SC900.png)|**[SC-900](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals) Security, Compliance, and Identity Fundamentals**<br>Microsoft bulut çözümleri kapsamında güvenlik, uyumluluk ve kimlik konularındaki temel bilgileri doğrular.|
 
