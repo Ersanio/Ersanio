@@ -33,10 +33,11 @@ Bir zamanlar bir hobi olarak başlayan şey, kısa sürede programlamaya olan bi
 |![SC-900](/badges/SC900.png)|**[SC-900](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals) Security, Compliance, and Identity Fundamentals**<br>Microsoft bulut çözümleri kapsamında güvenlik, uyumluluk ve kimlik konularındaki temel bilgileri doğrular.|
 
 ## 🚀 Öne Çıkan Projeler
-- **[Nine Yin Manual](https://nineyinmanual.com/)**: MMORPG "Age of Wushu" için fullstack bir web uygulaması. Oyundaki eşyalar, yetenekler ve diğer bilgilerin kapsamlı bir veritabanını sunar. Angular ve ASP.NET ile geliştirilmiştir. Kaynak kodu yakında açık olacak.  
+- **[Nine Yin Manual](https://nineyinmanual.com/)**: MMORPG "Age of Wushu" için fullstack bir web uygulaması. Oyundaki eşyalar, yetenekler ve diğer bilgilerin kapsamlı bir veritabanını sunar. Angular ve ASP.NET ile geliştirilmiştir. Ancak kaynak kodu kapalı kalacaktır.
 - **[Age of Wushu Utilities](https://github.com/Ersanio/wushu-utils)**: MMORPG "Age of Wushu" için çeşitli araçlar ve yardımcı programlardan oluşan bir koleksiyon.  
 - **[Litra Controller](https://github.com/Ersanio/litra-controller)**: Logitech Litra Glow’u tarayıcı üzerinden kontrol etmeye yönelik bir proje.  
-- **[Assembly for the SNES](https://github.com/Ersanio/snes-assembly-book)**: Super Nintendo Entertainment System (SNES) için assembly diliyle programlama üzerine kapsamlı bir rehber. SNES modding topluluğu tarafından çok önerildi.  
+- **[Assembly for the SNES](https://github.com/Ersanio/snes-assembly-book)**: Super Nintendo Entertainment System (SNES) için assembly diliyle programlama üzerine kapsamlı bir rehber. SNES modding topluluğu tarafından çok önerildi.
+- **[Solar Soundtrack](https://github.com/Ersanio/solar-soundtrack)**: Super Nintendo Entertainment System (SNES) için geliştirilmiş Super Mario World oyununa yönelik, tarayıcı üzerinden çalışan bir müzik düzenleyici konsepti. Yapay zekâ destekli kodlama ("vibe coding") yaklaşımıyla oluşturulmuştur.
 
 ## 📫 İletişim
 
