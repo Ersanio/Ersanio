@@ -33,10 +33,11 @@ Wat ooit een hobby was, groeide al snel uit tot een passie voor programmeren en 
 |![SC-900](/badges/SC900.png)|**[SC-900](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals) Security, Compliance, and Identity Fundamentals**<br>Valideert basiskennis van beveiligings-, compliance- en identiteitsconcepten binnen Microsoft cloudoplossingen.|
 
 ## 🚀 Uitgelichte projecten
-- **[Nine Yin Manual](https://nineyinmanual.com/)**: Een fullstack webapplicatie voor de MMORPG "Age of Wushu". Het biedt een uitgebreide database van in-game items, skills en andere informatie. Gebouwd met Angular en ASP.NET. De broncode zal binnenkort openbaar beschikbaar zijn.
+- **[Nine Yin Manual](https://nineyinmanual.com/)**: Een fullstack webapplicatie voor de MMORPG "Age of Wushu". Het biedt een uitgebreide database van in-game items, skills en andere informatie. Gebouwd met Angular en ASP.NET. De broncode zal echter niet beschikbaar zijn.
 - **[Age of Wushu Utilities](https://github.com/Ersanio/wushu-utils)**: Een verzameling van tools en utilities voor de MMORPG "Age of Wushu".  
 - **[Litra Controller](https://github.com/Ersanio/litra-controller)**: Een project om de Logitech Litra Glow te bedienen via je browser.  
-- **[Assembly voor de SNES](https://github.com/Ersanio/snes-assembly-book)**: Een uitgebreide gids voor programmeren op de Super Nintendo Entertainment System (SNES) met assembly. Zeer gewaardeerd binnen de SNES-modding community.  
+- **[Assembly voor de SNES](https://github.com/Ersanio/snes-assembly-book)**: Een uitgebreide gids voor programmeren op de Super Nintendo Entertainment System (SNES) met assembly. Zeer gewaardeerd binnen de SNES-modding community.
+- **[Solar Soundtrack](https://github.com/Ersanio/solar-soundtrack)**: Een "vibe-coded" concept voor een muziekbewerker in de browser, gemaakt voor "Super Mario World" op de Super Nintendo Entertainment System (SNES).
 
 ## 📫 Contact
 
